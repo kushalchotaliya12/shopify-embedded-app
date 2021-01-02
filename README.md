@@ -1,2 +1,2 @@
-# sample-embedded-app
+# shopify-embedded-app
  Shopify Development
